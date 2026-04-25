@@ -1,6 +1,6 @@
 # FactLens (LLM-Powered)
 
-FactLens is an evidence-grounded claim verification workflow built in the `NewsSummarizer` project folder.  
+FactLens is an evidence-grounded claim verification workflow built in the `NewsLensFact` project folder.  
 It fetches recent topic-specific news, builds a structured evidence context, and uses LLMs to classify a claim as `fact`, `fake`, or `uncertain`.
 
 ## Problem It Solves
@@ -29,13 +29,13 @@ flowchart TD
 
 ## Current Architecture in Code
 
-### `NewsSummarizer/NewsSearch.py`
+### `NewsLensFact/NewsSearch.py`
 - retrieves latest topic news from NewsAPI
 - validates environment key (`NEWS_ORG_API_KEY`)
 - normalizes article schema (`title`, `source`, `published_at`, `url`, `description`, `content`)
 - composes compact, evidence-oriented context text for LLM consumption
 
-### `NewsSummarizer/LLMFactCheck.py`
+### `NewsLensFact/LLMFactCheck.py`
 - supports provider abstraction via `provider="gpt"` or `provider="ollama"`
 - validates local model availability for Ollama before inference
 - enforces structured JSON response format in prompt design
@@ -115,7 +115,7 @@ FactLens can be presented as a **trust-oriented LLM application** that combines 
 # FactLens (LLM-Powered)
 
 FactLens is an LLM-powered claim verification system that grounds model judgments in live, topic-specific news evidence.  
-The implementation lives in the `NewsSummarizer` folder and is intentionally designed as a practical bridge between research-style prompting and production-minded reliability.
+The implementation lives in the `NewsLensFact` folder and is intentionally designed as a practical bridge between research-style prompting and production-minded reliability.
 
 ## Problem It Solves
 
@@ -222,7 +222,7 @@ A newcomer can learn:
 2. Install dependencies:
    - `pip install -r requirements.txt`
 3. Run sample flow from:
-   - `NewsSummarizer/LLMFactCheck.py`
+   - `NewsLensFact/LLMFactCheck.py`
 4. Switch provider via:
    - `provider="gpt"` or `provider="ollama"`
 
