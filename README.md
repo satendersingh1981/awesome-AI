@@ -58,7 +58,7 @@ Project details: [`QwikSummarizer/README.md`](QwikSummarizer/README.md)
 - provider abstraction (`GPT` and local `Ollama`)
 - JSON-first model outputs with safe parsing fallback
 
-Project details: [`NewsSummarizer/README.md`](NewsSummarizer/README.md)
+Project details: [`NewsLensFact/README.md`](NewsLensFact/README.md)
 
 ## Architecture and LLM Strengths Demonstrated
 
