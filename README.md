@@ -1,27 +1,27 @@
 # AWESOME-AI
 
-Portfolio of a **Data Engineering Solution Architect (since 2016)** expanding into applied **GenAI/LLM systems**.
+Portfolio of a **Director-level Data & AI Solution Architect** (data engineering leadership since 2016) building practical **GenAI/LLM systems** on top of enterprise-grade data foundations.
 
-I currently work at leadership level across:
+I currently lead workstreams across:
 - cost optimization initiatives
 - enterprise data analytics delivery
 - OLTP + modern data platform architecture
 
-This repository shows how I bring that enterprise architecture mindset into LLM-driven products.
+This repository showcases how I bring enterprise architecture rigor into modern LLM-driven products.
 
 ## Professional Profile
 
-- **Role focus:** Director-level data leadership and solution architecture
+- **Role focus:** Director position across data engineering, analytics, and AI enablement
 - **Experience:** Data engineering architecture from 2016 onward
 - **Core capabilities:** cost optimization, analytics strategy, data platform modernization
-- **Platform exposure:** EMR, Databricks, Snowflake, Redshift, and OLTP ecosystems
+- **Platform exposure:** EMR, Databricks, Snowflake, Redshift, and enterprise OLTP ecosystems
 
 ## Leadership + Engineering Value Proposition
 
-I combine three layers that are often separated:
-- **Business outcomes:** optimize cost, improve reliability, and speed decision-making
+I combine three layers that are often handled separately:
+- **Business outcomes:** optimize platform cost, improve reliability, and accelerate decision-making
 - **Platform architecture:** design scalable data pipelines and analytics foundations
-- **AI enablement:** build practical LLM applications grounded in structured data and reliable workflows
+- **AI enablement:** build practical LLM applications grounded in trusted data and reliable workflows
 
 ## My Learning Path (So Far)
 
@@ -68,12 +68,12 @@ Project details: [`NewsSummarizer/README.md`](NewsSummarizer/README.md)
 - **Cost-aware mindset:** prompt/context discipline to improve predictability and efficiency
 - **Scalable modularity:** components designed for future extension (ranking, citations, evaluation)
 
-## Why This Profile Is Job-Relevant
+## Why This Profile Attracts Leadership Roles
 
-- Bridges **director-level data leadership** with **hands-on AI building**
-- Demonstrates execution from architecture strategy to coded prototypes
-- Aligns with organizations modernizing data stacks and adopting GenAI responsibly
-- Suitable for roles spanning data architecture leadership, AI platform strategy, and GenAI solution design
+- Bridges **director-level data leadership** with **hands-on AI delivery**
+- Demonstrates execution from architecture strategy through implementation
+- Aligns with organizations modernizing data platforms while adopting GenAI responsibly
+- Fits leadership roles spanning data architecture, AI platform strategy, and enterprise transformation
 
 ## Current Stack
 
@@ -88,4 +88,4 @@ Project details: [`NewsSummarizer/README.md`](NewsSummarizer/README.md)
 
 ---
 
-I am open to opportunities in **Data Engineering Leadership**, **Solution Architecture (Data + AI)**, and **Enterprise GenAI Transformation**.
+I am open to opportunities in **Director, Data Engineering**, **Director, Data & AI Solutions**, and **Enterprise GenAI Transformation Leadership**.
