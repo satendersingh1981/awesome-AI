@@ -1,0 +1,83 @@
+{
+  "timestamp": "2026-04-27T21:45:43.448692",
+  "total_jobs": 36,
+  "total_unique_skills": 0,
+  "summary": {
+    "total_jobs_analyzed": 36,
+    "unique_skills_found": 0,
+    "average_skills_per_job": 0.0
+  },
+  "skills_by_type": {
+    "Technical": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    },
+    "Data Science & ML": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    },
+    "DevOps & Cloud": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    },
+    "Data Engineering": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    },
+    "Soft Skills": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    },
+    "Architectural": {
+      "total_count": 0,
+      "percentage": 0,
+      "skills": []
+    }
+  },
+  "skills_by_role": {
+    "Architecture & Leadership": {
+      "total": 0,
+      "skills": []
+    },
+    "Backend Engineering": {
+      "total": 0,
+      "skills": []
+    },
+    "DevOps & Cloud": {
+      "total": 0,
+      "skills": []
+    },
+    "Data Engineering": {
+      "total": 0,
+      "skills": []
+    },
+    "Other": {
+      "total": 0,
+      "skills": []
+    },
+    "Data Science": {
+      "total": 0,
+      "skills": []
+    }
+  },
+  "top_skills_overall": [],
+  "skill_trends": {},
+  "role_distribution": {
+    "Architecture & Leadership": 20,
+    "Other": 8,
+    "Backend Engineering": 3,
+    "DevOps & Cloud": 2,
+    "Data Engineering": 2,
+    "Data Science": 1
+  },
+  "cities": {
+    "Noida": 18,
+    "Gurgaon": 10,
+    "Delhi": 8
+  }
+}
