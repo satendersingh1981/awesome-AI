@@ -1,0 +1,1520 @@
+{
+  "results": [
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5697210000?se=SoblcIFB8RGtTOojiaELgw&utm_medium=api&utm_source=2700a7b0&v=B0CC22F8FFD5095C769CEC963FB9D37B6DAF0C3B",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxMDAwMCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.NpfqM8HiphmBpvklpfaGbQo7V-K4vYqZG-glzNGNiQk",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Robotics Engineering Director",
+      "company": {
+        "display_name": "HCLTech",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "created": "2026-04-12T08:35:52Z",
+      "description": "Robotics Engineering Director Intelligent Robotics & Customer Engineering Job Summary: The Robotics Engineering Director is a senior technical leader responsible for driving customer engagement, delivering high-impact robotics demonstrations, supporting pre-sales activities, and providing hands-on engineering expertise across intelligent robotics solutions. This role blends deep technical capability with business-facing responsibilities, enabling clients to understand, adopt, and scale modern r\u2026",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5697210000",
+      "city_fetched": "Noida"
+    },
+    {
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Director - Engineering",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzE0MDE2NyIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.PuopQJZa5Nvfs8IltEC5udWpCKTnfqAGYTi6PNrojhM",
+      "redirect_url": "https://www.adzuna.in/details/5703140167?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Adobe"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5703140167",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "description": "This position offers a unique opportunity to contribute to Adobe's flagship and award-winning products in a platform-agnostic manner, using cutting-edge tools and technologies in cloud , desktop , and AI (Artificial Intelligence) domains. You will work collaboratively with Product, Design, Program Managers , and the Product Marketing team to define and deliver product roadmaps. Your responsibilities will also include direct customer interaction , understanding their needs, and delivering except\u2026",
+      "created": "2026-04-18T07:12:24Z",
+      "city_fetched": "Noida"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5702014374",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "created": "2026-04-17T06:52:35Z",
+      "description": "Key Responsibilities: Team Leadership: Lead and mentor a large team of 100-150 professionals, driving a high-performance, collaborative culture that promotes autonomy and excellence. Client Management: Manage 4-5 strategic client accounts, ensuring the successful delivery of complex projects and fostering long-term relationships with senior stakeholders. Financial Oversight: Take full responsibility for the financial health of multiple projects, overseeing budgeting, forecasting, cost managemen\u2026",
+      "title": "Director Engineering",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NzAyMDE0Mzc0In0.tfQ-IPgeKvrnfet6CgRKihUfZ_WruZPaOI4EyjZeiD4",
+      "redirect_url": "https://www.adzuna.in/details/5702014374?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GlobalLogic Inc"
+      },
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Radisson Hotel Group"
+      },
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Director of Engineering",
+      "redirect_url": "https://www.adzuna.in/details/5709849424?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwOTg0OTQyNCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.TAs0Ror1fQFk4FRVeSZnZqv0-_3jNRCUTNLDZBvpsL4",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5709849424",
+      "description": "Key Responsibilities of the Director of Engineering: Supports the smooth running of the director engineering, exerting diligent financial process control in accordance with company and business procedures Works as part of a team that maximizes guest satisfaction and comfort, sourcing quality products whilst delivering a positive and responsive approach to enquiries and problem resolution Takes responsibility for the duties and tasks assigned to the role, ensuring that all work is carried out in\u2026",
+      "created": "2026-04-25T06:43:37Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "city_fetched": "Noida"
+    },
+    {
+      "created": "2026-03-11T09:40:00Z",
+      "description": "About the Role: Grade Level (for internal use): 13 Job Description: Role: Director - Software & AI/ML Engineering Team: Capital Markets | Enterprise Software Experience: 15 years total, with 5 years in software engineering leadership Role Summary We are seeking a strategic and experienced Director of Software application development & AI/ML Engineering to lead the development of robust, scalable, and secure enterprise software applications for the capital markets domain, with a strong emphasis \u2026",
+      "salary_is_predicted": "0",
+      "id": "5661258980",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "S&P Global",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjYxMjU4OTgwIn0.zRr7mNE_fg8zHvHZX9zABlJ8C41st7HbyUYkGi7ClBw",
+      "redirect_url": "https://www.adzuna.in/details/5661258980?utm_medium=api&utm_source=2700a7b0",
+      "title": "Director, Senior Engineering",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "display_name": "S&P Global Market Intelligence",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjcxNDMyNDk0In0.Ixgd3jGETWZ9XUBLhIKwlwOs54TM8F2C0gf1Q4fzeCI",
+      "redirect_url": "https://www.adzuna.in/details/5671432494?utm_medium=api&utm_source=2700a7b0",
+      "longitude": 77.3225,
+      "title": "Associate Director, Software Engineering",
+      "latitude": 28.56579,
+      "description": "Responsibilities & Impact Work within an Agile team to deliver high-quality, customer-centric software solutions aligned with business goals Collaborate with software architects and developers to evaluate and modernize legacy Java applications Design and implement modernization strategies such as refactoring, containerization , and microservices adoption Build and maintain scalable , secure , and efficient solutions on AWS cloud infrastructure Optimize application performance , reliability, and\u2026",
+      "created": "2026-03-19T06:20:07Z",
+      "id": "5671432494",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "display_name": "S&P Global",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Associate Director, Software Engineering",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTUzNzg3NCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.N_aj-nP40L21goM6Lr6HUiIn_LgqDv1hmGHlAgfqyDM",
+      "redirect_url": "https://www.adzuna.in/details/5639537874?utm_medium=api&utm_source=2700a7b0",
+      "salary_is_predicted": "0",
+      "id": "5639537874",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "created": "2026-02-21T13:28:01Z",
+      "description": "About the Role: Grade Level (for internal use): 12 tbc About S&P Global Energy At S&P Global Energy, our comprehensive view of global energy and commodities markets enables our customers to make superior decisions and create long-term, sustainable value. Our four core capabilities are: Platts for news and pricing; CERA for research and advisory; Horizons for energy expansion and sustainability solutions; and Events for industry collaboration. S&P Global Energy is a division of S&P Global (NYSE:\u2026",
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Adobe"
+      },
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Director, Site Reliability Engineering",
+      "redirect_url": "https://www.adzuna.in/details/5703140287?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzE0MDI4NyIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.L1-0nhQ15yga2PfRCjqCFvdqEC7FMXBVRkQVIyL-FUM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "id": "5703140287",
+      "salary_is_predicted": "0",
+      "created": "2026-04-18T07:12:26Z",
+      "description": "As Director of Site Reliability Engineering, you will lead multiple SRE teams across Noida and Bangalore, managing multi-tiered leaders reporting to you. You will play a pivotal role in: \u2022 Driving system reliability, scalability, and performance for Adobe's solutions. \u2022 Owning the technical direction, automation, monitoring, and infrastructure provisioning. \u2022 Collaborating with engineering, product, and operations teams to drive innovation and reliability at scale. What you'll do- \u2022 Leadership \u2026",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "city_fetched": "Noida"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5703140169?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzE0MDE2OSIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.fhB_Xf0vdB61Pcu5_B03r2NtsCjY2vEsO_-c9-ZRLWY",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Director, Software Development",
+      "company": {
+        "display_name": "Adobe",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "This position offers a unique opportunity to build solutions using platforms and technologies as diverse as embedded systems, major desktop and server operating systems, AI, as well as cloud technologies. In this role you will closely partner with Product Managers to define and refine the product roadmaps. You will also be responsible for interaction with customers (directly as well as through the customer success team) all over the globe, understand their needs and exceed their expectations th\u2026",
+      "created": "2026-04-18T07:12:24Z",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "id": "5703140169",
+      "salary_is_predicted": "0",
+      "city_fetched": "Noida"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5695053683?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTA1MzY4MyIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.Si_NGLdS9eMlVVSrWNLcu7IRB6K0Vng2sfi94GRlnt4",
+      "title": "SaT-DnA-Data Engineer-Assistant Director",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ernst and young LLP"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2026-04-10T06:59:40Z",
+      "description": "The opportunity We're looking for Assistant Director - Data Engineering. The main objective of the role is to support cloud and on-prem platform analytics and data engineering projects initiated across engagement teams. The role will primarily involve conceptualizing, designing, developing, deploying and maintaining complex technology solutions which help EY solve business problems for the clients. This role will work closely with technical architects, product and business subject matter expert\u2026",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "id": "5695053683",
+      "salary_is_predicted": "0",
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ernst and young LLP"
+      },
+      "longitude": 77.3225,
+      "title": "SaT-DnA-Data Engineer-Assistant Director",
+      "latitude": 28.56579,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTA1MzU2NCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.dLVkhbkY17j_bL8QRTxCy9bfgacFq7U9qMaBcx2vNTQ",
+      "redirect_url": "https://www.adzuna.in/details/5695053564?utm_medium=api&utm_source=2700a7b0",
+      "id": "5695053564",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "description": "EY-Strategy and Transactions (SaT)\u2013 DnA Assistant Director EY's Data n' Analytics team is a multi-disciplinary technology team delivering client projects and solutions across Data Management, Visualization, Business Analytics, and Automation. The assignments cover a wide range of countries and industry sectors. The opportunity We're looking for Assistant Director - Data Engineering. The main objective of the role is to support cloud and on-prem platform analytics and data engineering projects i\u2026",
+      "created": "2026-04-10T06:59:35Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Noida"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5686262491",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "created": "2026-04-02T02:12:04Z",
+      "description": "Who We Are Welcome to TELUS Digital \u2014 where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS , one of Canada\u2019s largest telecommunications providers, we partner with organizations to design, deliver, and operate transformative customer experiences and enterprise systems. Leveraging strategic insight, advanced technology, and a people-first culture, we help clients engage customers, modernize operations, and scale their \u2026",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Service Delivery Senior Director",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1Njg2MjYyNDkxIn0.o0CiZ5RGGsZ8BwThOj_MjjBSGFMtyhYPXAbsrCXOTWA",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.in/details/5686262491?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "display_name": "TELUS Digital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "city_fetched": "Noida"
+    },
+    {
+      "salary_is_predicted": "0",
+      "id": "5633480679",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "description": "Principal Software Development Engineer \u2013 Organization-Wide Technical Leadership Job Summary: As a Principal Software Development Engineer at Clearwater Analytics, you will be the technical authority across the organization, with ownership of the overall technology stack , architecture , and engineering best practices . This role is responsible for ensuring Clearwater\u2019s systems meet the highest standards for scalability, reliability, and availability \u2014 critical to delivering industry-leading fi\u2026",
+      "created": "2026-02-18T01:26:41Z",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Clearwater Analytics",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Principal Software Development Engineer",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMzQ4MDY3OSIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.HGJQECEdIBE-9uGLY8NAjOfPPll_--IUCt1N3ytWtwA",
+      "redirect_url": "https://www.adzuna.in/details/5633480679?utm_medium=api&utm_source=2700a7b0",
+      "city_fetched": "Noida"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5709853323?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NzA5ODUzMzIzIn0._VR20Vh1uQbKM-10BuvMaP0yJKZKf6teEIFwa9XOa4A",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Business Area Manager",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ARCADIS"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "trade-construction-jobs",
+        "label": "Trade & Construction Jobs"
+      },
+      "description": "Role Accountabilities Provide senior leadership within the Energy Transition team, establishing and consolidating relationships across Arcadis and our client base, taking ownership for the delivery of Power technical capability, and associated quality, supporting the efficient delivery of projects, or specialised components of projects. Lead the development of Arcadis GEC teams of US and Canada in the Energy transition sector and build and maintain a professional reputation as an individual and\u2026",
+      "created": "2026-04-25T06:46:06Z",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5709853323",
+      "city_fetched": "Noida"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5645341458?utm_medium=api&utm_source=2700a7b0",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NTM0MTQ1OCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.p2f_n8eO1tx281WHqihrHbEKXAe0HbSDuPNmE3hlLrE",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Lead Plant Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GE Vernova"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "energy-oil-gas-jobs",
+        "label": "Energy, Oil & Gas Jobs"
+      },
+      "description": "Job Description Summary Activities contributing to the design and development of products, solutions and systems. Includes activities linked to technical improvement of existing products and components Responsible for departmental operations planning/execution or is focused on execution of professional activities within a technical discipline. Functions with some autonomy but guided by established policies or review of end results. The job allows modification of procedures and practices coverin\u2026",
+      "created": "2026-02-26T01:53:30Z",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5645341458",
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "display_name": "ARCADIS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwOTg1MzQ1MiIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0._2nBgHIH9vA-5s8HiDXIp5_iVwUi-v-rGj6QLgakhVg",
+      "redirect_url": "https://www.adzuna.in/details/5709853452?utm_medium=api&utm_source=2700a7b0",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "title": "Business Area Manager",
+      "created": "2026-04-25T06:46:14Z",
+      "description": "Role Accountabilities Provide senior leadership within the Energy Transition team, establishing and consolidating relationships across Arcadis and our client base, taking ownership for the delivery of Power technical capability, and associated quality, supporting the efficient delivery of projects, or specialised components of projects. Lead the development of Arcadis GEC teams of US and Canada in the Energy transition sector and build and maintain a professional reputation as an individual and\u2026",
+      "salary_is_predicted": "0",
+      "id": "5709853452",
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "category": {
+        "label": "Trade & Construction Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "trade-construction-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Noida"
+    },
+    {
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Plant Engineer",
+      "redirect_url": "https://www.adzuna.in/details/5677235779?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3NzIzNTc3OSIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.DgPEfixj9aZnHOlW0LRgI1My1uVCZmQ5ICP3Yq27zew",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "GE Vernova",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Energy, Oil & Gas Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "energy-oil-gas-jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5677235779",
+      "description": "Job Description Summary GE\u2019s grid integration High Voltage Direct Current solutions, including AC & DC substations, are tailored and designed based on a project-by-project assessment of the customers' individual requirements, whether it's for connecting offshore wind generation, long distance power transmission, or energy trading between independent networks. The Plant Engineer is the part of plant engineering function and will control the technical execution of the project through closeout. Th\u2026",
+      "created": "2026-03-25T01:37:35Z",
+      "city_fetched": "Noida"
+    },
+    {
+      "created": "2026-02-26T01:42:48Z",
+      "description": "Job Description Summary GE\u2019s grid integration High Voltage Direct Current solutions, including AC & DC substations, are tailored and designed based on a project-by-project assessment of the customers' individual requirements, whether it's for connecting offshore wind generation, long distance power transmission, or energy trading between independent networks. The Lead Plant Engineer is the plant engineering representative at the launch of all projects and will control the technical execution of\u2026",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5645269733",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "energy-oil-gas-jobs",
+        "label": "Energy, Oil & Gas Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GE Vernova"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5645269733?utm_medium=api&utm_source=2700a7b0",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29ibGNJRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjQ1MjY5NzMzIn0.wTmA8ccnYeLbaJTgR4P3xr1CWF-bxGaVuMQNzGSMhRs",
+      "title": "Lead Plant Engineer",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "city_fetched": "Noida"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "energy-oil-gas-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Energy, Oil & Gas Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "salary_is_predicted": "0",
+      "id": "5645710134",
+      "description": "Job Description Summary GE's grid integration High Voltage Direct Current solutions, including AC & DC substations, are tailored and designed based on a project-by-project assessment of the customers' individual requirements, whether it's for connecting offshore wind generation, long distance power transmission, or energy trading between independent networks. The Lead Plant Engineer is the plant engineering representative at the launch of all projects and will control the technical execution of\u2026",
+      "created": "2026-02-26T08:15:24Z",
+      "latitude": 28.56579,
+      "title": "Lead Plant Engineer",
+      "longitude": 77.3225,
+      "redirect_url": "https://www.adzuna.in/details/5645710134?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NTcxMDEzNCIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.ECtkSbJ01otjRFUIbcdKxsRCJ3t9FNeZ9tj5lf6_0W4",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GE Vernova"
+      },
+      "city_fetched": "Noida"
+    },
+    {
+      "id": "5639537831",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "description": "Why UKG: At UKG, the work you do matters. The code you ship, the decisions you make, and the care you show a customer all add up to real impact. Today, tens of millions of workers start and end their days with our workforce operating platform. Helping people get paid, grow in their careers, and shape the future of their industries. That's what we do. We never stop learning. We never stop challenging the norm. We push for better, and we celebrate the wins along the way. Here, you'll get flexibil\u2026",
+      "created": "2026-02-21T13:27:57Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "UKG"
+      },
+      "longitude": 77.3225,
+      "title": "Dir. Site Reliability Engineering",
+      "latitude": 28.56579,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTUzNzgzMSIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.Z-DVwMnY10Q2XHnanRFM3E1mAl7MPlpxDMSOMtYdblQ",
+      "redirect_url": "https://www.adzuna.in/details/5639537831?utm_medium=api&utm_source=2700a7b0",
+      "city_fetched": "Noida"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GE Vernova"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MTkzMjI2MiIsInMiOiJTb2JsY0lGQjhSR3RUT29qaWFFTGd3In0.L9409MKEy2bSoLf47P5JNBlW5QSK_mTM2e7XRm5Q5kE",
+      "redirect_url": "https://www.adzuna.in/details/5681932262?utm_medium=api&utm_source=2700a7b0",
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "title": "Tender Engineering Manager",
+      "description": "Job Description Summary The Tender Engineering Manager is responsible for the overall technical coordination and management during the tendering phase of large or complex project. These projects may involve EHV/ HV AIS & GIS Substation, FACTS & Data Center projects and require collaboration with multiple stakeholders worldwide. The Technical Engineering Manager serves as the primary contact for the Customer and is accountable for working with the tender team to develop of the best technical sol\u2026",
+      "created": "2026-03-29T09:42:35Z",
+      "id": "5681932262",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Noida"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-12-19T08:56:07Z",
+      "description": "Director of Engineering About REA Group In 1995, in a garage in Melbourne, Australia, REA Group was born from a simple question: Can we change the way the world experiences property? Could we? Yes. Are we done? Never. Fast forward 30 years, REA Group is a market leader in online real estate in three continents and continuing to grow rapidly across the globe. The secret to our growth is staying true to that day one mindset; the hunger to innovate, the ambition to change the world, and the curios\u2026",
+      "id": "5548131605",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "display_name": "Gurgaon, Haryana"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzMTYwNSIsInMiOiJ0T3pIY29GQjhSR3RUT29qaWFFTGd3In0.W27ME80C3FXoFPEZmTEouCVvOP-s8zeB15tJLeWAvf4",
+      "redirect_url": "https://www.adzuna.in/land/ad/5548131605?se=tOzHcoFB8RGtTOojiaELgw&utm_medium=api&utm_source=2700a7b0&v=330EAD91673ABDD3BBB573A6E1A1CEB674DB276E",
+      "longitude": 76.983738,
+      "latitude": 28.323996,
+      "title": "Director Of Engineering",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "REA"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5637670508?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjM3NjcwNTA4In0.u0S4DupBFqT7UYM0BAC0ohb2YrAwKju2nQeR6_GWFNM",
+      "title": "Assistant Director of Engineering",
+      "latitude": 28.323996,
+      "longitude": 76.983738,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hyatt"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "created": "2026-02-20T13:19:14Z",
+      "description": "Description: You will be responsible for the efficient running of the department in line with Hyatt International's Corporate Strategies and brand standards, whilst meeting employee, guest and owner expectations. The Assistant Director of Engineering is responsible to assist the Director of Engineering in ensuring the efficient and economic operation of the Engineering Department in support of all other operating Departments, supplying services as required to the entire operation, and maintaini\u2026",
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ]
+      },
+      "id": "5637670508",
+      "salary_is_predicted": "0",
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "description": "We are seeking an Associate Director-Software Engineer-Java to design, develop, and maintain high-performance Java applications in a fast-paced, collaborative environment. This role is crucial for creating scalable and resilient solutions for post-trade operations, leveraging cloud-native technologies and distributed systems. Responsibilities Utilize cloud-native technologies and distributed systems to create scalable and resilient solutions. Collaborate with cross-functional teams to analyze r\u2026",
+      "created": "2026-03-07T06:57:45Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "display_name": "Gurgaon, Haryana"
+      },
+      "salary_is_predicted": "0",
+      "id": "5657072797",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Edge Executive Search"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5657072797?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjU3MDcyNzk3In0.L32LI70YEJT8xKKI0fM47a2HWfIQDalIKJVg3FQ_XcM",
+      "longitude": 76.983738,
+      "title": "Associate Director-Software Engineer-Java",
+      "latitude": 28.323996,
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5707874245?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzg3NDI0NSIsInMiOiJ0T3pIY29GQjhSR3RUT29qaWFFTGd3In0.nVeDUe28lU9GReOSE9Rfwa2DpLbJtdS2zIMxzSLBFqU",
+      "latitude": 28.323996,
+      "title": "Principal Engineer, Director",
+      "longitude": 76.983738,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Natwest Digitalx"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "created": "2026-04-23T07:51:55Z",
+      "description": "What you'll do As a Principal Engineer, youll be creating great customer outcomes via engineering and innovative solutions to existing and new challenges, and technology designs which are innovative, customer centric, high performance, secure and robust. Youll be leading the more significant, complex and technically challenging assignments, coordinating multiple feature teams, making sure that their technical journeys support realisation of the targets, and deliver the values of the relevant me\u2026",
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ]
+      },
+      "id": "5707874245",
+      "salary_is_predicted": "0",
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "company": {
+        "display_name": "Edge Executive Search",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 28.323996,
+      "title": "Director - Data & AI Engineering",
+      "longitude": 76.983738,
+      "redirect_url": "https://www.adzuna.in/details/5657072787?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjU3MDcyNzg3In0.D46FC1TfuOFsK_HRRKa7PXEVoR2kkIGDBFuMEuj-roU",
+      "location": {
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gurgaon, Haryana"
+      },
+      "id": "5657072787",
+      "salary_is_predicted": "0",
+      "description": "We are seeking a Director - Data & AI Engineering to provide leadership for high-impact data and machine learning engineering programs across global business functions. This role is crucial for driving the development and management of scalable data platforms and fostering a culture of innovation and excellence within the team. Roles and Responsibilities Provide leadership for high-impact data and machine learning engineering programs across global business functions. Drive development and mana\u2026",
+      "created": "2026-03-07T06:57:45Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5707421242",
+      "created": "2026-04-23T01:54:20Z",
+      "description": "Portage Point Partners is a Chicago headquartered, middle market focused advisory, interim management and investment banking firm with a national footprint across ten US offices. It delivers deeply integrated, cross functional solutions across Transaction Advisory, Valuations, Investment Banking, Turnaround & Restructuring, Performance Improvement, Transaction Execution Services and Office of the CFO services. Backed by 160 experts with blue-chip consulting, finance, operations and investing ba\u2026",
+      "latitude": 28.323996,
+      "title": "Director, Data Strategy & Engineering (India Team)",
+      "longitude": 76.983738,
+      "redirect_url": "https://www.adzuna.in/details/5707421242?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzQyMTI0MiIsInMiOiJ0T3pIY29GQjhSR3RUT29qaWFFTGd3In0.NkfyxJ9kF1kX-Tig3qC4aQQ_P7VCg7fvcE9Xk-zfKDI",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Portage Point Partners"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "description": "Key Responsibilities: Lead a global team of 250 quality engineers, including a central hub of engineering transformation leaders Partner with key product leaders and stakeholders across multiple businesses Align our transformation strategy with our platform strategy to ensure our multi-year technology strategy is future-facing, adaptive and risk-adjusted Who you are: You have a deep understanding of how to build for scale, for resilience and how to think about risk from a client perspective You\u2026",
+      "created": "2026-03-04T06:29:30Z",
+      "salary_is_predicted": "0",
+      "id": "5653075137",
+      "location": {
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gurgaon, Haryana"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Primetrace Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjUzMDc1MTM3In0.WBFJFjwv6xhH9-_tWNJAQkPZI-pyPPfCEhBEL2-e8So",
+      "redirect_url": "https://www.adzuna.in/details/5653075137?utm_medium=api&utm_source=2700a7b0",
+      "longitude": 76.983738,
+      "latitude": 28.323996,
+      "title": "Quality and Transformation Engineering, Managing Director",
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MDA3OTE2MSIsInMiOiJ0T3pIY29GQjhSR3RUT29qaWFFTGd3In0.MK0GOz7FFJ2K5kIOMh-fbNwgTlTvEakYs5bOW50ghSg",
+      "redirect_url": "https://www.adzuna.in/details/5590079161?utm_medium=api&utm_source=2700a7b0",
+      "latitude": 28.323996,
+      "longitude": 76.983738,
+      "title": "Associate Director - Plumbing & Fire Fighting Design Engineering",
+      "company": {
+        "display_name": "AECOM",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr\u2026",
+      "created": "2026-01-18T07:16:02Z",
+      "salary_is_predicted": "0",
+      "id": "5590079161",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "display_name": "Gurgaon, Haryana"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "longitude": 76.983738,
+      "title": "Big Data Modernization Engineer",
+      "latitude": 28.323996,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NzA5ODQ1MDE4In0.Gbo1j6bBqGht8rpWM3Emxzpk9OACTgbVFaWCrCpNWt4",
+      "redirect_url": "https://www.adzuna.in/details/5709845018?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "display_name": "Infosys Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5709845018",
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Engineer has to help Director in Modernization Convert Talend jobs into PySpark or Data proc jobs Big data skills Good in written and verbal Communication Good problem-solving skills and programming skills Skills: Pyspark, modernization Experience: 7.00-12.00 Years",
+      "created": "2026-04-25T06:38:54Z",
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "description": "At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market. What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture. Our customers rank among the who\u2019s who in the Fortune 50. Coca-Cola, LinkedIn, Adobe, LVMH and Bayer are just a few of the 2,400 global compan\u2026",
+      "created": "2026-04-17T01:48:05Z",
+      "id": "5701647848",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ]
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Anaplan",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTY0Nzg0OCIsInMiOiJ0T3pIY29GQjhSR3RUT29qaWFFTGd3In0.Wudxm_a7BvTczh2viCGOtczwsyvIa2zO8s7rWT6LO-A",
+      "redirect_url": "https://www.adzuna.in/details/5701647848?utm_medium=api&utm_source=2700a7b0",
+      "title": "Sr Manager Engineering, QA Performance",
+      "latitude": 28.323996,
+      "longitude": 76.983738,
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ]
+      },
+      "id": "5701758443",
+      "salary_is_predicted": "0",
+      "description": "At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market. What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture. Our customers rank among the who\u2019s who in the Fortune 50. Coca-Cola, LinkedIn, Adobe, LVMH and Bayer are just a few of the 2,400 global compan\u2026",
+      "created": "2026-04-17T02:01:30Z",
+      "title": "Senior Manager, ADO Platform Enablement",
+      "longitude": 76.983738,
+      "latitude": 28.323996,
+      "redirect_url": "https://www.adzuna.in/details/5701758443?utm_medium=api&utm_source=2700a7b0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NzAxNzU4NDQzIn0._JaeRuIfzJaKh4bNLFqlNMipxMLut8r3ppd9p9W--1M",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anaplan"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "id": "5605071346",
+      "description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Why Join Us? To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of u\u2026",
+      "created": "2026-01-30T00:32:56Z",
+      "latitude": 28.323996,
+      "longitude": 76.983738,
+      "title": "Principal Mobile Engineer (iOS)",
+      "redirect_url": "https://www.adzuna.in/details/5605071346?utm_medium=api&utm_source=2700a7b0",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidE96SGNvRkI4Ukd0VE9vamlhRUxndyIsImkiOiI1NjA1MDcxMzQ2In0.B3Dd6sZBMSnuF8Rp96S4bR2fLkK7lL_O6gyI7AypJnQ",
+      "company": {
+        "display_name": "Expedia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "city_fetched": "Gurgaon"
+    },
+    {
+      "company": {
+        "display_name": "Fitfyles LLP",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2024-07-31T03:10:07Z",
+      "title": "Director of Engineering",
+      "description": "Director of Engineering FiFyles is changing lives! As a Director of Engineering with unique problem-solving capabilities, you have a deep passion for quality, and the drive to build out a world-class team of exceptional engineers. If this sounds like you, please read on! Who You Are Your vision is clear and far-seeing You believe that brevity is the soul of wit You know how to read between the lines You can see both the forest and the trees You know how to reconcile seemingly contradictory requ\u2026",
+      "redirect_url": "https://www.adzuna.in/details/4801494161?utm_medium=api&utm_source=2700a7b0",
+      "id": "4801494161",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTQ5NDE2MSIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.M3onA5kjJ4E9PiwvmSSeuYTQ63AUuGobWkcu5BkU1hI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Delhi, India",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "city_fetched": "Delhi"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5708633633?utm_medium=api&utm_source=2700a7b0",
+      "created": "2026-04-24T02:08:46Z",
+      "description": "ABOUT TIDE At Tide we help SMEs save time (and money) in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions from invoicing to accounting. Tide is transforming the small business banking market with over 1.8 million members globally across the UK, India, Germany and France. Using advanced technology, all solutions are designed with SMEs in mind. With quick onboar\u2026",
+      "title": "Director of Engineering",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Careers at Tide"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Delhi, India"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NzA4NjMzNjMzIn0.CVvbPGNTeEi7yjDW2re7nsy_qTvQm6ZdreqIYp_PnFU",
+      "id": "5708633633",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "company": {
+        "display_name": "The Indure Pvt Ltd Official",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5702251057?se=8BbPc4FB8RG60p_fUSdYlA&utm_medium=api&utm_source=2700a7b0&v=094BDCB9D789CB62910D5DA85E64BA77923B77D1",
+      "description": "Company Description The Indure Pvt. Ltd. is a prominent EPC solutions provider with over 50 years of expertise in industrial and energy infrastructure. Specializing in end-to-end engineering services, Indure delivers efficient, reliable, and environmentally compliant solutions across the power and process industries. With over 230 successful installations contributing to 75,000 MW of power capacity, the company has a strong presence in India and international markets. Backed by in-house manufac\u2026",
+      "created": "2026-04-17T11:17:40Z",
+      "title": "\u201cJoin Indure\u2019s Engineering Team \u2013 Multiple Openings in Civil & Structural (CHP & AHP)\u201d",
+      "id": "5702251057",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjI1MTA1NyIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.IeCjmWDd1nB66cAXnxprBaCP5uXbYrp-MHMxhI7VG8E",
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "title": "iOS Developer",
+      "redirect_url": "https://www.adzuna.in/details/4589549128?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "display_name": "TravClan",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 800000,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 1500000,
+      "longitude": 77.224601,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU4OTU0OTEyOCIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.JcQBhT21I21MpeiE5lGiDDaduscngKlOCltANq08xgQ",
+      "contract_time": "full_time",
+      "id": "4589549128",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "description": "We are B2B Travel Tech startup that is reshaping the way travel agents sell and deliver exceptional travel experiences worldwide. We enable travel agents to book flights, hotels & holidays conveniently and we provide comprehensive end-to-end on-ground travel services. We do over INR 1000 crore GMV (sales) and are growing rapidly. Our strong business model and focus on delivering excellent customer experience has facilitated our sustainable growth funded by internal cashflows. To fuel innovation\u2026",
+      "created": "2024-03-02T15:36:30Z",
+      "location": {
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Delhi, India"
+      },
+      "latitude": 28.62523,
+      "city_fetched": "Delhi"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Accedo"
+      },
+      "redirect_url": "https://www.adzuna.in/details/1171509063?utm_medium=api&utm_source=2700a7b0",
+      "created": "2019-06-05T21:12:23Z",
+      "description": "Job Purpose: The role of Engineering Manager is focused on driving Customer solutions and delivering technical excellence through close engagement with Customers, Suppliers and cross-functional teams within Accedo. As a senior technical authority you will be responsible for leading tier-1 Customer engagements in Asia, with a strong focus on the domestic OTT market in India. You will also be responsible for leading Accedo Engineering Teams and collaborating closely with other global Engineering \u2026",
+      "title": "Engineering Manager",
+      "salary_min": 2800000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 3300000,
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Delhi, India",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ]
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": 1171509063,
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOjExNzE1MDkwNjN9.eFs-W9oXDcWyWBEWETRXuhvea3l8e2aoLRvqYtbRvxg",
+      "city_fetched": "Delhi"
+    },
+    {
+      "salary_min": 4500000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PRYDAN CONSULTANCY SERVICES PRIVATE LIMITED"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5616693033?utm_medium=api&utm_source=2700a7b0",
+      "created": "2026-02-06T08:11:15Z",
+      "title": "Technical Architect - Game Development",
+      "description": "Position: Technical Architect - Game Development Experience: 6 years in game development with significant cross-platform experience Location: Netaji Subhash Place, Pitampura, Delhi. Employment Type: Full-Time Reports to: Senior Director of Engineering About the Role Responsibilities Lead technical evaluation and assessment of game codebases across multiple projects Perform in-depth technical assessments of game codebases to identify architectural risks and long-term sustainability consideration\u2026",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5616693033",
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NjE2NjkzMDMzIn0.COnU7PzefuJFl6CXNBEHytgriB59ADCYgdC9GvOMFJI",
+      "longitude": 77.224601,
+      "salary_max": 4500000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODM1Mzc3NSIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.wmWk-Q0aC3sMuWqA_zN96XrEWY-6zRS6pVfjEecNZGg",
+      "latitude": 28.62623,
+      "category": {
+        "label": "Customer Services Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs"
+      },
+      "id": "5698353775",
+      "location": {
+        "area": [
+          "India",
+          "Delhi",
+          "New Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "New Delhi, Delhi"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 77.21808,
+      "created": "2026-04-14T01:47:48Z",
+      "description": "Job Description JOB PURPOSE Responsible for assisting the Fire Officer in the overall day to day operations. To ensure preventive maintenance schedules are performed and correctly recorded. To report any out of order equipment that will affect hotel fire safety and notify any non-productive equipment use. To ensure any deviations on the hotels fire and safety are correctly recorded. To inspect daily all plant rooms, kitchens, service outlets, public areas, guest areas, BOH areas and record any \u2026",
+      "title": "Fire Associate",
+      "redirect_url": "https://www.adzuna.in/details/5698353775?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PULLMAN"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5696865805",
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1Njk2ODY1ODA1In0.1kvvDv1x5MIqcQy_BduflkF05dTlzdk2ria40cGeYX4",
+      "company": {
+        "display_name": "Wiz",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5696865805?utm_medium=api&utm_source=2700a7b0",
+      "created": "2026-04-12T01:57:01Z",
+      "description": "Come join the company that is reinventing cloud security and empowering businesses to thrive in the cloud. As the fastest-growing startup ever, Wiz is on a mission to help organizations secure cloud environments that will accelerate their businesses. Trusted by security teams all over the world, we have a proven track record of success and a culture that values world-class talent. Our Wizards from over 20 countries work together to protect the infrastructure of our hundreds of customers, includ\u2026",
+      "title": "Senior Solutions Engineer - North India",
+      "city_fetched": "Delhi"
+    },
+    {
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDgyMTQxMiIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.IIgpbqwQa3VzvJY030nrP-499-nKuWIPImyyyVxI_WU",
+      "category": {
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Admin Jobs"
+      },
+      "id": "5680821412",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Delhi, India",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5680821412?utm_medium=api&utm_source=2700a7b0",
+      "created": "2026-03-28T06:24:31Z",
+      "title": "Asst Mgr-Loss Prevention",
+      "description": "Assists in the management of the daily functions of the department to ensure protection of property assets, employees, guests and property Maintains logs, certifications and documents required by law and Standard Operating Procedures Assists in the training of staff in established emergency procedures and implements accident and fire prevention procedures Position focuses on ensuring guest and employee satisfaction while achieving the operating budget CANDIDATE PROFILE Education and Experience \u2026",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Marriott"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "location": {
+        "display_name": "New Delhi, Delhi",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi",
+          "New Delhi"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 77.21808,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NzEwNTMyOTk4In0.A5h4-lu75hsVu8FpHbaZoh91b-3nuBMQhnUjIqQKumQ",
+      "latitude": 28.62623,
+      "id": "5710532998",
+      "contract_time": "full_time",
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Assistant Chief Engineer",
+      "created": "2026-04-26T02:07:55Z",
+      "description": "Description JOB SUMMARY Assists department head in managing budget, capital expenditures, preventative maintenance and energy conservation. Accountable for maintaining the building and grounds with particular attention towards safety, security and asset protection. Assigns, tracks and follows up on status of work assigned to staff and contractors. Helps to increase guest and employee satisfaction through effective communications and training. CANDIDATE PROFILE Education and Experience \u2022 High sc\u2026",
+      "redirect_url": "https://www.adzuna.in/details/5710532998?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "display_name": "Marriott Hotels Resorts",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "salary_is_predicted": "0",
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 150,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MjA4Mjg2OSIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.L8NeuFR1ZWlw7NJHYMMFHWWtQ0wKZJgAT8HZYjJWLY4",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "id": "5442082869",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.in/details/5442082869?utm_medium=api&utm_source=2700a7b0",
+      "title": "VP - Data Architect (B2B SaaS)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talent Pro"
+      },
+      "salary_min": 100,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "latitude": 28.62523,
+      "created": "2025-10-11T06:40:56Z",
+      "description": "Super Quality Data Architect, Data Engineering Manager / Director Profile Mandatory (Experience 1) - Must have 12 YOE in Data Engineering roles, with at least 2 years in a Leadership role Mandatory (Experience 2) - Must have 7 YOE in hands-on Tech development with Java (Highly preferred) or Python, Node.JS, GoLang Mandatory (Experience 3) - Must have strong experience in large data technologies, tools like HDFS, YARN, Map-Reduce, Hive, Kafka, Spark, Airflow, Presto etc. Mandatory (Experience 4)\u2026",
+      "city_fetched": "Delhi"
+    },
+    {
+      "location": {
+        "area": [
+          "India",
+          "Delhi",
+          "New Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "New Delhi, Delhi"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 77.21808,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwODYyMDk1MyIsInMiOiI4QmJQYzRGQjhSRzYwcF9mVVNkWWxBIn0.BVi1K9vLDF_vlbKi3vjN95X8CtMzPi8jQZQKVYJMxw0",
+      "latitude": 28.62623,
+      "category": {
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Admin Jobs"
+      },
+      "id": "5708620953",
+      "contract_time": "full_time",
+      "title": "Loss Prevention Manager",
+      "created": "2026-04-24T02:07:16Z",
+      "description": "Description JOB SUMMARY Manages the daily functions of the department to ensure protection of property assets, employees, guests and property. Maintains logs, certifications and documents required by law and Standard Operating Procedures. Trains staff in established emergency procedures and implements accident and fire prevention procedures. Position focuses on ensuring guest and employee satisfaction while achieving the operating budget. CANDIDATE PROFILE Education and Experience \u2022 High school\u2026",
+      "redirect_url": "https://www.adzuna.in/details/5708620953?utm_medium=api&utm_source=2700a7b0",
+      "company": {
+        "display_name": "Marriott Hotels Resorts",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "India",
+          "Delhi",
+          "New Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "New Delhi, Delhi"
+      },
+      "longitude": 77.21808,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 28.62623,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NzEwMDI0MjU3In0.-xjxyahGFPhmOBc44j91O-C19pv0BXBlC6WdXLsc_gE",
+      "id": "5710024257",
+      "category": {
+        "label": "Maintenance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "maintenance-jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5710024257?utm_medium=api&utm_source=2700a7b0",
+      "title": "Assistant Chief Engineer",
+      "created": "2026-04-25T09:50:42Z",
+      "description": "Additional Information Job Number 26049952 Job Category Engineering & Facilities Location New Delhi Marriott Marquis, Asset Area 13 - Hospitality District, New Delhi, New Delhi, India, 110037 VIEW ON MAP (https://www.google.com/maps?q=New%20Delhi%20Marriott%20Marquis%2C%20Asset%20Area%2013%20-%20Hospitality%20District%2C%20New%20Delhi%2C%20New%20Delhi%2C%20India%2C%20110037) Schedule Full Time Located Remotely? N Position Type Management JOB SUMMARY Assists department head in managing budget, c\u2026",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Marriott"
+      },
+      "city_fetched": "Delhi"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5690109922?utm_medium=api&utm_source=2700a7b0",
+      "created": "2026-04-05T02:01:25Z",
+      "title": "Sales Executive",
+      "description": "About Megaport We\u2019re not your typical tech company \u2013 and we don\u2019t want to be. Megaport is the global leader in Network as a Service (NaaS), and has transformed the way businesses connect to the cloud, data centers, and each other. We\u2019re publicly listed on the Australian Stock Exchange and partnered with the biggest names in tech like Amazon, Microsoft, Google, Oracle, IBM, and more. Headquartered in Brisbane with a crew of over 400 people spread across Asia-Pacific, Europe, and the Americas, ou\u2026",
+      "company": {
+        "display_name": "Megaport",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NjkwMTA5OTIyIn0.-37Yg_xr4PM53HEOAxvlAHF3NTrQPn53L1kVISbwIJk",
+      "id": "5690109922",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Delhi, India"
+      },
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "city_fetched": "Delhi"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOEJiUGM0RkI4Ukc2MHBfZlVTZFlsQSIsImkiOiI1NDQyMDgyODUxIn0.1C4iCF0EKIPQ3KukEITemwF5Lltc6FgAu1erkgJY6vw",
+      "contract_time": "full_time",
+      "id": "5442082851",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "longitude": 77.224601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 140,
+      "salary_min": 105,
+      "redirect_url": "https://www.adzuna.in/details/5442082851?utm_medium=api&utm_source=2700a7b0",
+      "title": "VP - Data Architect (B2B SaaS)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Peak Hire Solutions"
+      },
+      "latitude": 28.62523,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "created": "2025-10-11T06:40:56Z",
+      "description": "MANDATORY: Super Quality Data Architect, Data Engineering Manager / Director Profile Must have 12 YOE in Data Engineering roles, with at least 2 years in a Leadership role Must have 7 YOE in hands-on Tech development with Java (Highly preferred) or Python, Node.JS, GoLang Must have strong experience in large data technologies, tools like HDFS, YARN, Map-Reduce, Hive, Kafka, Spark, Airflow, Presto etc. Strong expertise in HLD and LLD, to design scalable, maintainable data architectures. Must hav\u2026",
+      "city_fetched": "Delhi"
+    }
+  ]
+}

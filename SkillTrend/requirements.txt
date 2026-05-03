@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pandas
+python-dotenv
+openai
+ollama
+nltk
+gradio
